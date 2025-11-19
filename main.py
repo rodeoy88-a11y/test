@@ -1,1 +1,2 @@
-print('asdsad')
+while True:
+    print('ГитХаб')
